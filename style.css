@@ -69,8 +69,8 @@ div.seach {
     font-weight: bolder;
 }
 
-.content {
+.parte1 {
     background-color: rgb(241, 241, 241);
-    width: 80%;
-    padding: 10px;
+    width: 100%;
+    padding: 1%;
 }
