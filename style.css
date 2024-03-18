@@ -1,10 +1,5 @@
 @charset "UTF-8";
 
-body, html {
-    height: 100%;
-}
-
-
 .criarconta a {
     text-decoration: solid;
     color: rgba(0, 0, 0, 0.605);
@@ -22,7 +17,13 @@ div.cabecalho {
     display: flex;
 }
 
+html, body {
+    height: 100%;
+}
+
 .menu {
+    display: flex;
+    flex-wrap: wrap;
     height: 100%;
 }
 
@@ -32,7 +33,7 @@ div.seach {
 }
 
 .navbar {
-    width: 10%;
+    width: 20%;
     background-color: rgba(0, 0, 0, 0.456);
     height: 100%;
 }
@@ -45,7 +46,6 @@ div.seach {
 
 .navbar h3 {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: medium;
     color: black;
 }
 
@@ -68,5 +68,6 @@ div.seach {
 }
 
 .parte1 {
+    width: 75%;
     background-color: rgb(241, 241, 241);
 }
