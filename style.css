@@ -19,7 +19,7 @@ body, html {
 
 div.cabecalho {
     background-color: rgba(0, 0, 0, 0.456);
-    width: 100%;
+    width: flex;
     height: 60px;
     display: flex;
 }
@@ -29,7 +29,8 @@ div.cabecalho {
 }
 
 div.seach {
-  margin: flex;
+  margin-top:20px;
+  margin-left: 10px;
 }
 
 .navbar {
@@ -68,8 +69,8 @@ div.seach {
     font-weight: bolder;
 }
 
-.parte1 {
+.content {
+    background-color: rgb(241, 241, 241);
     width: 80%;
-    background-color: rgba(180, 18, 18, 0.641);
-    padding: 20px;
+    padding: 10px;
 }
