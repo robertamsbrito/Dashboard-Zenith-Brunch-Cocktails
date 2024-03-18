@@ -3,7 +3,7 @@
 body, html {
     height: 100%;
 }
-/*index*/
+
 
 .criarconta a {
     text-decoration: solid;
@@ -14,8 +14,6 @@ body, html {
 :hover.criarconta a {
     color: black;
 }
-
-/*Dashboard*/
 
 div.cabecalho {
     background-color: rgba(0, 0, 0, 0.456);
@@ -34,7 +32,7 @@ div.seach {
 }
 
 .navbar {
-    width: 20%;
+    width: 10%;
     background-color: rgba(0, 0, 0, 0.456);
     height: 100%;
 }
@@ -71,6 +69,4 @@ div.seach {
 
 .parte1 {
     background-color: rgb(241, 241, 241);
-    width: 100%;
-    padding: 1%;
 }
