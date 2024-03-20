@@ -70,7 +70,7 @@ div.seach {
 
 .parte1 {
     width: 70%;
-    height: auto;
+    height: flex;
     background-color: rgb(241, 241, 241);
     padding: 20px;
 }
@@ -90,6 +90,13 @@ div.seach {
 .titulo p {
     font-family: Arial, Helvetica, sans-serif;
 
+}
+
+.boxinfo {
+    background-color: black;
+    border-radius: 5px;
+    height: flex;
+    width:150px;
 }
 
 .boxinfo {
