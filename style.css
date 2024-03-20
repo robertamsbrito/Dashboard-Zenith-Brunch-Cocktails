@@ -69,7 +69,8 @@ div.seach {
 }
 
 .parte1 {
-    width: 77%;
+    width: 70%;
+    height: auto;
     background-color: rgb(241, 241, 241);
     padding: 20px;
 }
@@ -77,7 +78,7 @@ div.seach {
 .titulo {
     background-color: white;
     border-radius: 10px;
-    padding: 10px;
+    padding: 5px;
 
 }
 
