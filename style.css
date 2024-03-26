@@ -144,9 +144,15 @@ header {
     font-size: 28px;
 }
 
-.unidade {
-    display: block;
+#unidade, #data {
     justify-content: space-around;
+    background-color: rgb(245, 245, 245);
+    list-style-position: outside;
+    padding: 5px;
+    width: 120px;
+    height: 30px;
+    margin: 0 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 
