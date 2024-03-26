@@ -145,10 +145,10 @@ header {
 }
 
 #unidade, #data {
-    justify-content: space-around;
+    display: flex;
+    justify-content: space-between;
     background-color: rgb(245, 245, 245);
-    list-style-position: outside;
-    padding: 5px;
+    padding: flex;
     width: 120px;
     height: 30px;
     margin: 0 10px;
